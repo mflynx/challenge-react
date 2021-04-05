@@ -1,0 +1,13 @@
+.nav-wrapper, .nav-bar {
+    display: flex;
+}
+
+.nav-wrapper {
+    background-color: rgb(231, 190, 180);
+    justify-content: center;
+}
+.nav-bar {
+    padding : 2vh 3vh;
+    justify-content: space-between;
+    width: 50vh
+}
